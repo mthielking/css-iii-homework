@@ -1,2 +1,14 @@
-/*create your custom styling here*/
-
+#header {height: 200px;
+width: 900px;
+background-color:green;
+border-bottom: 10px solid black; }
+.sidebar { height: 500px;
+	width: 225px ;
+background-color: blue;
+}
+#main-story {height:500px;
+width:450px;
+background-color:orange;
+margin:10px solid black;
+float:top 210px;
+float:right 245px;}
